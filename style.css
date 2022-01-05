@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width{
@@ -34,3 +35,19 @@ section{
     background-repeat: no-repeat;
     
 }
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link-button-2{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(223, 77, 228), rgb(184, 41, 53));
+    color: white;
+
+    font-weight: 700;
+    padding: 10px 40px;
+
+}
+
